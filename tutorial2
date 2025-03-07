@@ -1,0 +1,4 @@
+gaming_companies = "Rockstar", "Fromsoft", "Ubisoft", "EA"
+
+for company in gaming_companies:
+    print(company)
